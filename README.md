@@ -1,6 +1,6 @@
 # Dog Breed Classifier
 
-The idea is to build a neural network so anyone can supply an image of a dog and get its breed. Fun feature is that you can upload a face pic and you will get the dog breed you look like.
+I created this neural network so anyone can supply an image of a dog and get its breed. Fun feature is that you can upload a face pic and you will get the dog breed you look like.
 
 ### Overview
 
