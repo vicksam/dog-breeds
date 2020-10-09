@@ -8,7 +8,7 @@ I use pre-trained detectors of dogs and human faces. Then I create a CNN to iden
 
 The final algorithm makes predictions with 87% accuracy.
 
-<img src="images/Prediction.png" width="500">
+<img src="images/Prediction.png">
 
 ### Methods
 
