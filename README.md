@@ -1,15 +1,18 @@
 # Dog Breed Classifier
 
-I created this neural network so anyone can supply an image of a dog and get its breed. Fun feature is that you can upload a face pic and you will get the dog breed you look like.
+I created this neural network so anyone can supply an image of a dog to figure out its breed. A fun feature is that you can upload a face pic and you will get the dog breed that you look like.
 
 ### Overview
 
-I use pre-trained detectors of dogs and human faces. Then I create a CNN to identify a dog breed.
+I use pre-trained detectors of dogs and human faces. Then I create a CNN to identify a dog breed. I build a one from scratch, then I build another one using transfer learning.
+
+The final algorithm makes predictions with 87% accuracy.
+
+<img src="images/Prediction.png" width="500">
 
 ### Methods
 
 * CNN (Convolutional Neural Network)
-* Deep learning
 
 ### Tech
 
@@ -25,11 +28,9 @@ To take a look at the notebook, just click on `dog_breeds.ipynb` and it should o
 
 Alternatively you can download the project and open the file `dog_breeds.html` in your browser to see the results.
 
-*TODO: how to input your own image*
-
 ## Dataset
 
-Datasets were supplied by Udacity. They contain images of known people and dogs.
+Datasets were supplied by Udacity. They contain images of known people and various dogs.
 
 #### Size
 
